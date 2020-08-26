@@ -1,6 +1,8 @@
 # Hi There! :wave: 
 
-I'm Ruaridh (pronounced rew-ree), I'm a Full Stack Junior Software Developer from <img src="https://image.flaticon.com/icons/svg/197/197601.svg" width="22"/>**Isle Of Skye, Scotland**, currently living in <img src="https://image.flaticon.com/icons/svg/323/323270.svg" width="22"/> **Leeds, England**.
+<img alt="Email" src="https://img.shields.io/badge/-ruaridh.james@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" /> <img alt="LinkedIn" src="https://img.shields.io/badge/-ruaridh_james-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> 
+
+I'm Ruaridh (pronounced rew-ree), I'm a Full Stack Junior Software Developer from <img src="https://image.flaticon.com/icons/svg/197/197601.svg" width="13"/>**Isle Of Skye, Scotland**, currently living in <img src="https://image.flaticon.com/icons/svg/323/323270.svg" width="13"/> **Leeds, England**. I graduated from **Strathclyde University, Glasgow** with a *1st Class Honours* in Computer Science.
 
 ### :wrench: What I use
 
