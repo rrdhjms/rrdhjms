@@ -14,4 +14,4 @@ I'm Ruaridh (pronounced rew-ree), I'm a Full Stack Junior Software Developer fro
 
 ### :mag: What I want to learn 
 
-<img alt="Elixir" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"  /> <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white"  />
+<img alt="Elixir" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"  /> <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white"  /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"  /> <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"  /> <img alt="Vue JS" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"  /> 
